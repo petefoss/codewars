@@ -23,4 +23,5 @@ The Users / Codewarriors also start at Level 8kyu and work up level 1kyu and the
 
 ### Note
 These solutions have been written while learning to code and are not always the most efficient ways of solving the problem. I have left them unchanged as it allows for an interesting view of personal growth and development.
+
 Interestingly, about a quarter of these solutions were coded on my android phone. Amazing that phones can do this but much slower than a computer!
